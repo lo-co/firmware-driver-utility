@@ -17,4 +17,4 @@ a C driver.
     * start bit - integer indicating starting bit position
     * size - number of bits associated with bitfield entry
 
-[![GitHub Super-Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![GitHub Super-Linter](https://github.com/lo-co/firmware-driver-utility/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
