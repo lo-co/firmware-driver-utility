@@ -18,4 +18,3 @@ a C driver.
     * size - number of bits associated with bitfield entry
 
 [![GitHub Super-Linter](https://github.com/lo-co/firmware-driver-utility/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
-
