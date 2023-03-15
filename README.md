@@ -3,7 +3,7 @@
 Provided a register map, this utility will convert the register map along with ancillary data (such as constants used by the low-level driver) into 
 a C driver.
 
-# Fields
+## Fields
 
 * Driver prefix - string prefixed to each variable and used for naming the low-level driver
 * Base address - register map base address
@@ -18,3 +18,4 @@ a C driver.
     * size - number of bits associated with bitfield entry
 
 [![GitHub Super-Linter](https://github.com/lo-co/firmware-driver-utility/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
