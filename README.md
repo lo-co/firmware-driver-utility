@@ -16,3 +16,5 @@ a C driver.
     * name - string indicating field name
     * start bit - integer indicating starting bit position
     * size - number of bits associated with bitfield entry
+
+[![GitHub Super-Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
